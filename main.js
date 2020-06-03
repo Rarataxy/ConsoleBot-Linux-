@@ -148,4 +148,4 @@ rl.on('line', (input) => {
 })
 
 
-bot.login('NDEzMzkyMzczMzI2ODA3MDYw.Xs5Nrg.aC5hLSUW06R_b7Nxb8ZHcIS9CMo');
+bot.login('YOUR TOKEN HERE');
