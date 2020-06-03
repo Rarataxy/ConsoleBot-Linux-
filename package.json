@@ -1,0 +1,20 @@
+{
+  "name": "consolebotcli",
+  "version": "1.0.0",
+  "description": "concoleBot with an CLI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rarataxy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "chalk-pipe": "^4.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "discord.js": "^12.2.0",
+    "inquirer": "^7.1.0",
+    "minimist": "^1.2.5"
+  }
+}
